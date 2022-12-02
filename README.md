@@ -8,7 +8,7 @@ Proyecto final de realidad virtual del curso Interacción Humano Computador (CS2
 
 ## Instalación
 
-Usar la versión final de la carpeta Build e instalar en los dispositivos.
+Usar la versión final del apk. Se puede descargar del siguiente link https://drive.google.com/file/d/1Z4ggQac-mBGr_rqps6xurGkdhr4KfEQw/view?usp=share_link.
 
 ## Descarga del proyecto
 
