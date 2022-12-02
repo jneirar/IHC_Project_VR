@@ -10,4 +10,6 @@ Proyecto final de realidad virtual del curso Interacción Humano Computador (CS2
 
 Usar la versión final de la carpeta Build e instalar en los dispositivos.
 
+## Descarga del proyecto
 
+Descargar el proyecto, luego descargar los assets que no se incluyen en el repositorio por tamaño, y compilar el proyecto.
